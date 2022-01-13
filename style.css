@@ -478,6 +478,15 @@ p {
     color: white;
     text-align: left;
 }
+
+#services .instagram {
+    color: rgb(51, 178, 221);
+}
+
+#services .email_service {
+    color: rgb(106, 106, 253);
+}
+
 /* End of the Service Section */
 
 /* Project Section */
